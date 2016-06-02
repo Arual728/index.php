@@ -52,10 +52,8 @@ echo "
  <h1>Su formulario fue enviado con exito </h1>
 <form>   
 <p>Muchas gracias <br>
-O lo que tu quieras poner los que sea!<br>
-Solo realiza el cambiio en este texto!<br>
 <br>
-Saludos el equipo de ..lo que seas..
+Saludos
 </p>
 </form>
 "; 
