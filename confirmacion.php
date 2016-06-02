@@ -51,9 +51,8 @@ if (form_mail("TUEMAIL@LOQUESEA", $_POST[asunto],
 echo "
  <h1>Su formulario fue enviado con exito </h1>
 <form>   
-<p>Muchas gracias <br>
-<br>
-Saludos
+<p>Muchas gracias
+Saludos.
 </p>
 </form>
 "; 
